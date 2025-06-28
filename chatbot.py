@@ -17,7 +17,7 @@ from io import StringIO
 
 
 
-genai.configure(api_key='AIzaSyDkZO-Rd0TZUoy8mhtegXPQ-x2lM4_JIBk')
+genai.configure(api_key='Your own API key')
 model=genai.GenerativeModel(model_name='gemini-1.5-flash')
 
 
